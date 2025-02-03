@@ -75,9 +75,9 @@
 
 ## 2. Base Conversion
 
-| S.No | Problem                                                                                           | Difficulty | Solution                                  |
-| ---- | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------- |
-| 1    | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/) | Medium     | [Solution](/solutions/base-conversion.md) |
+| S.No | Problem                                                                                           | Difficulty | Solution                                  |  solved |
+| ---- | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------- | ------------- |
+| 1    | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/) | Medium     | [Solution](/solutions/base-conversion.md) |  ✅ |
 
 ## 3. Bellman Ford
 
