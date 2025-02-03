@@ -55,17 +55,17 @@
 
 ## 1. Backtracking
 
-| S.No | Problem                                                                                                       | Difficulty | Solution                                                                              |
-| ---- | ------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- |
-| 1    | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                   | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
-| 2    | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                             | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
-| 3    | [Permutations](https://leetcode.com/problems/permutations/)                                                   | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
-| 4    | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
-| 5    | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                   | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
-| 6    | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                                                 | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
-| 7    | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                       | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
-| 8    | [Permutations II](https://leetcode.com/problems/permutations-ii/)                                             | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
-| 9    | [N Queens](https://leetcode.com/problems/n-queens/)                                                           | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
+| S.No | Problem                                                                                                       | Difficulty | Solution                                                                              | solved |
+| ---- | ------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- |  ---------- |
+| 1    | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                   | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |  ✅ |
+| 2    | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                             | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) | ✅ |
+| 3    | [Permutations](https://leetcode.com/problems/permutations/)                                                   | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) | ✅ |
+| 4    | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) | ✅ |
+| 5    | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                   | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) | ✅ |
+| 6    | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                                                 | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) | ✅ |
+| 7    | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                       | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) | ✅ |
+| 8    | [Permutations II](https://leetcode.com/problems/permutations-ii/)                                             | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) | ✅ |
+| 9    | [N Queens](https://leetcode.com/problems/n-queens/)                                                           | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) | ✅ |
 | 10   | [Combinations](https://leetcode.com/problems/combinations/)                                                   | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
 | 11   | [Subsets](https://leetcode.com/problems/subsets/)                                                             | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
 | 12   | [Word Search](https://leetcode.com/problems/word-search/)                                                     | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
