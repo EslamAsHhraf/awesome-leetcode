@@ -81,15 +81,15 @@
 
 ## 3. Bellman Ford
 
-| S.No | Problem                                                                                           | Difficulty | Solution                               |
-| ---- | ------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------- |
-| 1    | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium     | [Solution](/solutions/bellman-ford.md) |
+| S.No | Problem                                                                                           | Difficulty | Solution                                |  solved |
+| ---- | ------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------- | ------------- | 
+| 1    | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium     | [Solution](/solutions/bellman-ford.md) | ✅ |
 | 2    | [Network Delay Time](https://leetcode.com/problems/network-delay-time/)                           | Medium     | [Solution](/solutions/bellman-ford.md) |
 
 ## 4. BFS
 
-| S.No | Problem                                                                                             | Difficulty | Solution                                                                              |
-| ---- | --------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- |
+| S.No | Problem                                                                                             | Difficulty | Solution     | solved |                                                                          
+| ---- | --------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- | ---------------------------------------|
 | 1    | [Average of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy       | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
 | 2    | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                               | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
 
