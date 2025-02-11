@@ -90,7 +90,7 @@
 
 | S.No | Problem                                                                                             | Difficulty | Solution     | solved |                                                                          
 | ---- | --------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- | ---------------------------------------|
-| 1    | [Average of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy       | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
+| 1    | [Average of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy       | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md)  | ✅ |
 | 2    | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                               | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
 
 ## 5. Binary Search
