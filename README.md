@@ -95,17 +95,17 @@
 
 ## 5. Binary Search
 
-| S.No | Problem                                                                                                                                           | Difficulty | Solution                                                                              |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- |
-| 1    | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                   | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
+| S.No | Problem                                                                                                                                           | Difficulty | Solution                                                                              | solved |  
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- | ---- |
+| 1    | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                   | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md)  | ✅ |
 | 2    | [Find First and Last Position of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
 | 3    | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)                                                             | Medium     | [Solution](https://github.com/kiranpalsingh1806/awesome-dsa/blob/master/SOLUTIONS.md) |
 
 ## 6. Binary Trees
 
-| S.No | Problem                                                                                                                                                 | Difficulty | Solution                               |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------- |
-| 1    | [Sum of Leaft Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                                                | Easy       | [Solution](/solutions/binary-trees.md) |
+| S.No | Problem                                                                                                                                                 | Difficulty | Solution                               | solved |  
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------- | ---- |
+| 1    | [Sum of Leaft Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                                                | Easy       | [Solution](/solutions/binary-trees.md)  | ✅ |
 | 2    | [Construct String From Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)                                                   | Easy       | [Solution](/solutions/binary-trees.md) |
 | 3    | [Average of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)                                                     | Easy       | [Solution](/solutions/binary-trees.md) |
 | 4    | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                                             | Easy       | [Solution](/solutions/binary-trees.md) |
